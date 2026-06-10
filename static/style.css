@@ -1,0 +1,29 @@
+body{
+    margin:0;
+    font-family:Arial, sans-serif;
+}
+
+header{
+    background:#0f172a;
+    color:white;
+    padding:20px;
+}
+
+.hero{
+    text-align:center;
+    padding:80px;
+    background:#e2e8f0;
+}
+
+.services{
+    padding:40px;
+}
+
+.card{
+    display:inline-block;
+    width:250px;
+    margin:10px;
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.2);
+}
